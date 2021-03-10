@@ -1,3 +1,45 @@
+# FIRST STEPS WITH LARAVEL
+
+ ## Create a new laravel project and within it a new route in routes/web.php that points to a new template   file in resources/views (for example the new file you might call help.blade.php)<br> 
+
+   ## The new web route will be /help, and if invoked by browser will have to return a lorem ipsum. 
+
+   <br>
+   <br>   
+
+   Web Technologies:
+   - LARAVEL ( 1% of it :) )
+
+  ---
+  Added new route "help" in: routes/web.php:
+
+  ```
+
+    Route::get('/help', function () {
+      return view('help');
+    });
+
+  ```
+
+  added "help.blade.php" file in: resources/views
+
+  
+  ![alt text](resources/img/img_1.png)  
+    
+  
+  added "help" on LARAVEL welcome page: resources/views/welcome.blade.php
+  ```  
+  <a href="/help">Help</a>
+
+  ``` 
+  ![alt text](resources/img/img_2.png)  
+  
+
+---
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
