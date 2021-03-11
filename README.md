@@ -24,7 +24,7 @@
   added "help.blade.php" file in: resources/views
 
   
-  ![img_1.png](resources/img/img_1.png)  
+  ![img_1.png](img_1.png)  
     
   
   added "help" on LARAVEL welcome page: resources/views/welcome.blade.php
@@ -32,7 +32,7 @@
   <a href="/help">Help</a>
 
   ``` 
-  ![img_2.png](resources/img/img_2.png)  
+  ![img_2.png](img_2.png)  
   
 
 ---
