@@ -24,7 +24,7 @@
   added "help.blade.php" file in: resources/views
 
   
-  ![img_1.png](img_1.png)  
+  ![img_1.png](https://github.com/danielpellegrini/laravel-primi-passi/blob/27d5eadbd43f96118687cee9959046500f276eec/img_1.PNG?raw=true)  
     
   
   added "help" on LARAVEL welcome page: resources/views/welcome.blade.php
@@ -32,7 +32,7 @@
   <a href="/help">Help</a>
 
   ``` 
-  ![img_2.png](img_2.png)  
+  ![img_2.png](https://github.com/danielpellegrini/laravel-primi-passi/blob/27d5eadbd43f96118687cee9959046500f276eec/img_2.PNG?raw=true)  
   
 
 ---
